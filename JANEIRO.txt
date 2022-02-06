@@ -1,0 +1,49 @@
+---------------------------------------------
+-------CONTROLE FINANCEIRO DE JANEIRO --------
+---------------------------------------------
+Meta: R$ 7.500,00
+Saldo: R$ 3.920,00
+
+Gastor fixos: 
+Energia: R$ 150.0
+Gas: R$ 30.0
+Internet: R$ 160.0
+Celular: R$ 70.0
+Cartão: R$ 700.0
+Nota: R$ 300.0
+Aluguel: R$ 6900.0
+Atacadão: R$ 250.0
+O maior gasto fixo foi  Aluguel sendo  81 % dos gastos fixos
+Total de gastos fixo: R$ 8.560,00
+
+Outros gastos
+Mercado: R$ 152.0
+Saidas: R$ 22.0
+Compras: R$ 37.0
+Total de gastos sem ser contas: R$ 211,00
+
+Ganhos
+                    Valor                   Empresa                  Trabalho
+
+                 3.250,00                   Marfins            Estande grande
+                   150,00                   Amadeus           Estande pequeno
+                    15,00                   Amadeus           estande pequeno
+                    25,00                    Angola           Estande pequeno
+                    15,00                    dfgfgh                    ghfhfh
+                    25,00                      loca           estande pequeno
+                     1,00                      dfsd                     sdfsd
+                   250,00                     joice                    predio
+                    15,00                     joice           estande pequeno
+                   250,00                    Marisa                    Roupas
+                    15,00                   Marmita                    Comida
+                    25,00                     carro                    vender
+                    10,00                      casa                    ganhei
+                 1.000,00                     milao                      sair
+
+Total de ganhos R$  6.691,00
+Total de gastos R$  8.771,00
+Suas despesas foram acima dos ganhos
+Despesa total R$ -2.080,00
+
+Voce não atingiu a meta de R$ 7.500,00
+Deficit de R$ 809.0
